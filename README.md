@@ -1,3 +1,3 @@
 # README
 
-assignment-blog app
+alpha-blog app
